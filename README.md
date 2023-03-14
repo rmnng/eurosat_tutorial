@@ -1,4 +1,4 @@
-# Satellite images classicifation using EuroSAT dataset
+# Satellite images classification using EuroSAT dataset
 Jupyter notebook using EuroSAT dataset for satellite image classification
 
 In order to run this notebook, it's necessary to download the [EuroSAT dataset](https://zenodo.org/record/7711810#.ZBCSAezML4r) and to store it in following structure:
